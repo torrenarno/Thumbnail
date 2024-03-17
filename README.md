@@ -16,5 +16,5 @@ To download a single thumbnail, click on the thumbnail image, and it will be dow
 To download all thumbnails at once, click on the "Download All" button.
 Enjoy using the Thumbnail Downloader!
 
-Try Now  [Thumbnail Doownloader inline-style link with title](https://snapsave.link")
+Try Now  [YT Thumbnail Doownloader](https://snapsave.link)
 .
