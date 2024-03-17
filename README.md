@@ -15,3 +15,6 @@ Click on the "Fetch Thumbnails" button to extract and display the thumbnails.
 To download a single thumbnail, click on the thumbnail image, and it will be downloaded to your device.
 To download all thumbnails at once, click on the "Download All" button.
 Enjoy using the Thumbnail Downloader!
+
+Try Now  [Thumbnail Doownloader inline-style link with title](https://snapsave.link")
+.
